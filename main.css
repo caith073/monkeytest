@@ -8,6 +8,8 @@ body {
     height: 300px;
     justify-content: center;
     padding-left: 3em;
+    opacity: .50;
+    background-color: rgb(223, 127, 127);
 }
 
 .container.a {
@@ -44,8 +46,9 @@ body {
 }
 
 .flex-container {
-    background: url("images/TBN01_050709_lD_Rock_2MP.jpg") no-repeat bottom right fixed;
+    background: url("images/TBN01_050709_lD_Rock_2MP.jpg") no-repeat bottom fixed;
     height: 100vh;
+    opacity: .75;
     
 }
 
