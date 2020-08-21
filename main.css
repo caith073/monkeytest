@@ -54,8 +54,8 @@ body {
     text-align: center;
 }
 
-.container.1 {
-    background: url("images/TBN01_050709_lD_Rock.jpg") no-repeat bottom right fixed;
+.flex-container {
+    background: url("images/TBN01_050719_lD_Rock_2MP.jpg") no-repeat bottom right fixed;
     height: 100vh;
 }
 
